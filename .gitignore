@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+
+# Output folder (optional: you might want to include networks.csv but ignore report)
+output/networks_report.html
+
+# VS Code settings
+.vscode/
